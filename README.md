@@ -28,6 +28,16 @@ If you use this code, please cite our [papers](https://dl.acm.org/doi/abs/10.114
   year={2022}
 }
 
+@incollection{zheng2021planter,
+  title={Planter: seeding trees within switches},
+  author={Zheng, Changgang and Zilberman, Noa},
+  booktitle={Proceedings of the SIGCOMM'21 Poster and Demo Sessions},
+  pages={12--14},
+  year={2021}
+}
+```
+We are also excited to introduce several Planter related and supported papers:
+```
 @article{zheng2022iisy,
   title={IIsy: Practical In-Network Classification},
   author={Zheng, Changgang and Xiong, Zhaoqi and Bui, Thanh T and Kaupmees, Siim and Bensoussane, Riyad and Bernabeu, Antoine and Vargaftik, Shay and Ben-Itzhak, Yaniv and Zilberman, Noa},
@@ -35,12 +45,18 @@ If you use this code, please cite our [papers](https://dl.acm.org/doi/abs/10.114
   year={2022}
 }
 
-@incollection{zheng2021planter,
-  title={Planter: seeding trees within switches},
-  author={Zheng, Changgang and Zilberman, Noa},
-  booktitle={Proceedings of the SIGCOMM'21 Poster and Demo Sessions},
-  pages={12--14},
-  year={2021}
+@incollection{hong2022linnet,
+  title={Linnet: Limit Order Books Within Switches},
+  author={Hong, Xinpeng and Zheng, Changgang and Zohren, Stefan and Zilberman, Noa},
+  booktitle={Proceedings of the SIGCOMM'22 Poster and Demo Sessions},
+  year={2022}
+}
+
+@incollection{zang2022linnet,
+  title={P4Pir: In-Network Analysis for Smart IoT Gateways},
+  author={Zang, Mingyuan and Zheng, Changgang and Stoyanov, Radostin and Dittmann, Lars and Zilberman, Noa},
+  booktitle={Proceedings of the SIGCOMM'22 Poster and Demo Sessions},
+  year={2022}
 }
 ```
 
