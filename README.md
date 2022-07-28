@@ -11,15 +11,14 @@ Planter is a modular framework for realising in one-click in-network machine lea
 
 This work is currently under the peer-review process. **_The source code will be made available once the peer-reviewed version is published_**.
 
-If you're interested in this work and find anywhere unclear in the ArXiv paper, please feel free to contact me from ```changgang.zheng@eng.ox.ac.uk```. **_We are welcoming to collaborations._** It is exciting to collaborate If you think in-network machine learning is helpful to your research or use case. If there are any potential interests, please feel free to contact me.
+If you're interested in this work and find anywhere unclear in the ArXiv paper, please feel free to contact me from ```changgang.zheng@eng.ox.ac.uk```. **_We are welcoming to collaborations._** It is exciting to collaborate If you think in-network machine learning is helpful to your research or use case. If there are any potential interests, please feel free to contact my supervisor ```noa.zilberman@eng.ox.ac.uk``` and me ```changgang.zheng@eng.ox.ac.uk```.
 
 ## License
 
 The files are licensed under Apache License: [LICENSE](./LICENSE). The text of the license can also be found in the LICENSE file.
 
 ## Citation
-If you use this code, please cite our [papers](https://dl.acm.org/doi/abs/10.1145/3472716.3472846):
-
+Please cite our Planter papers:
 ```
 @article{zheng2022automating,
   title={Automating In-Network Machine Learning},
