@@ -11,7 +11,7 @@ Planter is a modular framework for realising in one-click in-network machine lea
 
 This work is currently under the peer-review process. _The source code will be made available once the peer-reviewed version is published._
 
-We are welcome collaborations if you think in-network machine learning are helpful to your research or use case. If there are any potential interest, please feel free to contact my supervisor ```zilberman.noa@eng.ox.ac.uk``` and me ```changgang.zheng@eng.ox.ac.uk```.
+We are welcoming to collaborations. It is excited to collaborate If you think in-network machine learning is helpful to your research or use case. If there are any potential interests, please feel free to contact my supervisor ```zilberman.noa@eng.ox.ac.uk``` and me ```changgang.zheng@eng.ox.ac.uk```.
 
 ## License
 
