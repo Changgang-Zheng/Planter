@@ -36,7 +36,7 @@ If you use this code, please cite our [papers](https://dl.acm.org/doi/abs/10.114
   year={2021}
 }
 ```
-We are also excited to introduce several Planter related and supported papers:
+We are also excited to introduce several Planter related or supported papers:
 ```
 @article{zheng2022iisy,
   title={IIsy: Practical In-Network Classification},
