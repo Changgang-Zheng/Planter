@@ -9,11 +9,8 @@ Planter is a modular framework for realising in one-click in-network machine lea
 
 ## Current Planter
 
+_However, this paper is under the peer-review process. The source code will be made available once the peer-reviewed version is published._
 
-
-
-## Reporting a Bug
-Please submit an issue with the appropriate label on [Github](../../issues).
 
 ## License
 
