@@ -18,7 +18,7 @@ If you're interested in this work and find anything unclear in the ArXiv paper, 
 The files are licensed under Apache License: [LICENSE](./LICENSE). The text of the license can also be found in the LICENSE file.
 
 ## Citation
-Please cite our Planter papers:
+Please cite our Planter [papers](https://dl.acm.org/doi/10.1145/3472716.3472846):
 ```
 @article{zheng2022automating,
   title={Automating In-Network Machine Learning},
@@ -35,7 +35,7 @@ Please cite our Planter papers:
   year={2021}
 }
 ```
-We are also excited to introduce several Planter related or enabled papers:
+We are also excited to introduce several Planter related or enabled papers ([IIsy](https://arxiv.org/pdf/2205.08243.pdf), [Linnet](https://changgang-zheng.github.io/Home-Page/papers/Linnet%20Limit%20Order%20Books%20Within%20Switches.pdf), and [P4Pir](https://changgang-zheng.github.io/Home-Page/papers/P4Pir%20In-Network%20Analysis%20for%20Smart%20IoT%20Gateways.pdf)): 
 ```
 @article{zheng2022iisy,
   title={IIsy: Practical In-Network Classification},
@@ -51,7 +51,7 @@ We are also excited to introduce several Planter related or enabled papers:
   year={2022}
 }
 
-@incollection{zang2022linnet,
+@incollection{zang2022p4pir,
   title={P4Pir: In-Network Analysis for Smart IoT Gateways},
   author={Zang, Mingyuan and Zheng, Changgang and Stoyanov, Radostin and Dittmann, Lars and Zilberman, Noa},
   booktitle={Proceedings of the SIGCOMM'22 Poster and Demo Sessions},
