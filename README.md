@@ -4,14 +4,14 @@
 ![GitHub release](https://img.shields.io/badge/pre--release%20tag-v0.2.0-orange)
 
 ## Introducing Planter
-Planter is a modular framework for realising in one-click in-network machine learning algorithms. All you need to provide to Planter are a configuration file (```Name_data.py```) and a dataset. Planter will take it from there and offload your machine learning classification task into a programmable data plane.
+Planter is a modular framework for realising in one-click in-network machine learning algorithms. All you need to provide to Planter are a configuration file (```Name_data.py```) and a dataset. Planter will take it from there and offload your machine learning inference task into a programmable data plane.
 
 
-## Current Planter
+## Planter's Availability
 
-This work is currently under the peer-review process. **_The source code will be made available once the peer-reviewed version is published_**.
+Planter is currently under a peer-review process. **_The source code will be made available once the peer-reviewed version is published_**.
 
-If you're interested in this work and find anywhere unclear in the ArXiv paper, please feel free to contact me from ```changgang.zheng@eng.ox.ac.uk```. **_We are welcoming to collaborations._** It is exciting to collaborate If you think in-network machine learning is helpful to your research or use case. If there are any potential interests, please feel free to contact my supervisor ```noa.zilberman@eng.ox.ac.uk``` and me ```changgang.zheng@eng.ox.ac.uk```.
+If you're interested in this work and find anything unclear in the ArXiv paper, please feel free to contact me at ```changgang.zheng@eng.ox.ac.uk```. **_We are welcoming collaborations._** It can be exciting to collaborate, if you think in-network machine learning is helpful to your research or use case. If there are any potential interests, please feel free to contact my supervisor ```noa.zilberman@eng.ox.ac.uk``` and me ```changgang.zheng@eng.ox.ac.uk```.
 
 ## License
 
@@ -35,7 +35,7 @@ Please cite our Planter papers:
   year={2021}
 }
 ```
-We are also excited to introduce several Planter related or supported papers:
+We are also excited to introduce several Planter related or enabled papers:
 ```
 @article{zheng2022iisy,
   title={IIsy: Practical In-Network Classification},
@@ -59,4 +59,4 @@ We are also excited to introduce several Planter related or supported papers:
 }
 ```
 
-Planter builds upon [IIsy](https://github.com/cucl-srg/IIsy) and is inspired by [SwitchTree](https://github.com/ksingh25/SwitchTree), [Qin](https://github.com/vxxx03/IFIPNetworking20), and [Clustreams](https://dl.acm.org/doi/pdf/10.1145/3482898.3483356).
+Planter builds upon [IIsy](https://github.com/cucl-srg/IIsy) and is further inspired by [SwitchTree](https://github.com/ksingh25/SwitchTree), [Qin](https://github.com/vxxx03/IFIPNetworking20), and [Clustreams](https://dl.acm.org/doi/pdf/10.1145/3482898.3483356).
