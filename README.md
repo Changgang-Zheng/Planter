@@ -18,7 +18,7 @@ If you're interested in this work and find anything unclear in the ArXiv paper, 
 The files are licensed under Apache License: [LICENSE](./LICENSE). The text of the license can also be found in the LICENSE file.
 
 ## Citation
-Please cite our Planter [papers](https://dl.acm.org/doi/10.1145/3472716.3472846):
+Please cite our Planter papers ([Planter](https://arxiv.org/pdf/2205.08824.pdf) and [Planter poster](https://dl.acm.org/doi/10.1145/3472716.3472846)):
 ```
 @article{zheng2022automating,
   title={Automating In-Network Machine Learning},
