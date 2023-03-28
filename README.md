@@ -4,7 +4,8 @@
 ![GitHub release](https://img.shields.io/badge/pre--release%20tag-v0.2.0-orange)
 
 ## Introducing Planter
-Planter is a modular framework for realising in one-click in-network machine learning algorithms. All you need to provide to Planter are a configuration file (```Name_data.py```) and a dataset. Planter will take it from there and offload your machine learning inference task into a programmable data plane. The demo of the framework can be found in [Planter Demo](https://changgang-zheng.github.io/Home-Page/videos/Planter.html).
+Planter is a modular framework for realising in one-click in-network machine learning algorithms. All you need to provide to Planter are a configuration file (```Name_data.py```) and a dataset. Planter will take it from there and offload your machine learning inference task into a programmable data plane. 
+<!--The demo of the framework can be found in [Planter Demo](https://changgang-zheng.github.io/Home-Page).-->
 
 
 ## Planter's Availability
