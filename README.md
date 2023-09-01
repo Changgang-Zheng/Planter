@@ -5,14 +5,14 @@
 ![GitHub release](https://img.shields.io/badge/pre--release%20tag-v0.2.0-orange)
 
 ## Introducing Planter
-Planter is a modular framework for realising in one-click in-network machine learning algorithms. All you need to provide to Planter are a configuration file (```Name_data.py```) and a dataset. Planter will take it from there and offload your machine learning inference task into a programmable data plane. $\color{red}{The\ full\ artifact\ can\ be\ found\ in\ the\ HotCRP\ system.}$
+Planter is a modular framework for realising in one-click in-network machine learning algorithms. All you need to provide to Planter are a configuration file (```Name_data.py```) and a dataset. Planter will take it from there and offload your machine learning inference task into a programmable data plane.
 
 <!--The demo of the framework can be found in [Planter Demo](https://changgang-zheng.github.io/Home-Page).-->
 
 
 ## Planter's Availability
 
-Planter is currently under a peer-review process. **_The source code will be made available once the peer-reviewed version is published_**.
+Planter is currently under a peer-review process. **_The source code will be made available once the peer-reviewed version is published_**. $\color{red}{The\ full\ artifact\ can\ be\ found\ in\ the\ HotCRP\ system.}$
 
 If you're interested in this work and find anything unclear in the ArXiv paper, please feel free to contact me at ```changgang.zheng@eng.ox.ac.uk```. **_We are welcoming collaborations._** It can be exciting to collaborate, if you think in-network machine learning is helpful to your research or use case. If there are any potential interests, please feel free to contact my supervisor ```noa.zilberman@eng.ox.ac.uk``` and me ```changgang.zheng@eng.ox.ac.uk```.
 
