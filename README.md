@@ -1,4 +1,5 @@
-# Planter: <font color="Red"> The full artifact is attached in the HotCRP system</font>
+# Planter: <font color="#f03c15"> The full artifact is attached in the HotCRP system</font>
+<font color="#f03c15"> The full artifact is attached in the HotCRP system</font>
 ![Planter Logo](src/images/logo.png)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ![GitHub release](https://img.shields.io/badge/pre--release%20tag-v0.2.0-orange)
