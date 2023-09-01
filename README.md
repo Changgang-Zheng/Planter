@@ -1,11 +1,11 @@
-# Planter: $\color{red}{The\ full\ artifact\ is\ attached\ in\ the\ HotCRP\ system}$
+# Planter $\color{red}{The\ full\ artifact\ is\ attached\ in\ the\ HotCRP\ system}$
 <!----><font style="color : Red">The full artifact is attached in the HotCRP system</font>
 ![Planter Logo](src/images/logo.png)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ![GitHub release](https://img.shields.io/badge/pre--release%20tag-v0.2.0-orange)
 
 ## Introducing Planter
-Planter is a modular framework for realising in one-click in-network machine learning algorithms. All you need to provide to Planter are a configuration file (```Name_data.py```) and a dataset. Planter will take it from there and offload your machine learning inference task into a programmable data plane.$\color{red}{The\ full\ artifact\ can\ be\ found\ in\ the\ HotCRP\ system.}$
+Planter is a modular framework for realising in one-click in-network machine learning algorithms. All you need to provide to Planter are a configuration file (```Name_data.py```) and a dataset. Planter will take it from there and offload your machine learning inference task into a programmable data plane. $\color{red}{The\ full\ artifact\ can\ be\ found\ in\ the\ HotCRP\ system.}$
 
 <!--The demo of the framework can be found in [Planter Demo](https://changgang-zheng.github.io/Home-Page).-->
 
